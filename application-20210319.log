@@ -1,0 +1,22 @@
+2021-03-19 10:38:56.725 [main] INFO  server.Server - Сервер запущен
+2021-03-19 10:38:56.818 [main] INFO  server.SQLHandler - Есть соединение с базой данных... org.sqlite.jdbc4.JDBC4Connection@b9b00e0
+2021-03-19 10:38:56.820 [main] INFO  server.Server - Сервер ожидает соединения
+2021-03-19 10:44:31.439 [main] INFO  server.Server - Сервер запущен
+2021-03-19 10:44:31.526 [main] INFO  server.SQLHandler - Есть соединение с базой данных... org.sqlite.jdbc4.JDBC4Connection@b9b00e0
+2021-03-19 10:44:31.527 [main] INFO  server.Server - Сервер ожидает соединения
+2021-03-19 10:49:56.764 [main] INFO  server.Server - Установлено соединение с клиентом
+2021-03-19 10:49:56.767 [pool-2-thread-1] INFO  server.ClientHandler - Сообщение авторизации от клиента:/reg s.velesko@yandex.ru 1234 raininforest
+2021-03-19 10:50:15.834 [pool-2-thread-1] INFO  server.ClientHandler - Сообщение авторизации от клиента:/auth s.velesko@yandex.ru 1234
+2021-03-19 10:50:15.838 [pool-2-thread-1] INFO  server.ClientHandler - Клиент raininforest авторизовался
+2021-03-19 10:52:06.551 [main] INFO  server.Server - Установлено соединение с клиентом
+2021-03-19 10:52:06.553 [pool-2-thread-2] INFO  server.ClientHandler - Сообщение авторизации от клиента:/reg s.velesko@gmail.com 1234 willy
+2021-03-19 10:52:20.465 [pool-2-thread-2] INFO  server.ClientHandler - Сообщение авторизации от клиента:/auth s.velesko@gmail.com 1234
+2021-03-19 10:52:20.467 [pool-2-thread-2] INFO  server.ClientHandler - Клиент willy авторизовался
+2021-03-19 10:52:38.546 [pool-2-thread-1] INFO  server.ClientHandler - Сообщение от клиента:hi all
+2021-03-19 10:52:44.897 [pool-2-thread-2] INFO  server.ClientHandler - Сообщение от клиента:hi
+2021-03-19 10:53:23.769 [pool-2-thread-1] INFO  server.ClientHandler - Сообщение от клиента:/w willy how are you
+2021-03-19 10:54:11.703 [pool-2-thread-2] INFO  server.ClientHandler - Сообщение от клиента:it's a nice day
+2021-03-19 10:54:48.390 [pool-2-thread-1] INFO  server.ClientHandler - Сообщение от клиента:yeah
+2021-03-19 11:00:20.621 [pool-2-thread-1] INFO  server.ClientHandler - Клиент отключился
+2021-03-19 11:00:25.437 [pool-2-thread-2] INFO  server.ClientHandler - Сообщение от клиента:/end
+2021-03-19 11:00:25.438 [pool-2-thread-2] INFO  server.ClientHandler - Клиент отключился

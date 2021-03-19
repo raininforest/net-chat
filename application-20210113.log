@@ -1,0 +1,3 @@
+2021-01-13 18:25:09.260 [main] INFO  server.Server - Сервер запущен
+2021-01-13 18:25:09.407 [main] INFO  server.SQLHandler - Есть соединение с базой данных... org.sqlite.jdbc4.JDBC4Connection@b9b00e0
+2021-01-13 18:25:09.409 [main] INFO  server.Server - Сервер ожидает соединения
